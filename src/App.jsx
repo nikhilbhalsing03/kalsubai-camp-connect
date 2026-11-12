@@ -73,19 +73,19 @@ function App() {
 
   <div className="video-grid">
     <article className="video-card">
-      <video src="/videos/kalsubai-sunrise.MOV" controls playsInline preload="metadata" />
+      <video src="/videos/kalsubai-sunrise.MP4" controls playsInline preload="metadata" />
       <h3>Sunrise in the Sahyadris</h3>
       <p>Watch the mountains welcome a new day.</p>
     </article>
 
     <article className="video-card">
-      <video src="/videos/kalsubai-summit.MOV" controls playsInline preload="metadata" />
+      <video src="/videos/kalsubai-summit.MP4" controls playsInline preload="metadata" />
       <h3>The Summit Experience</h3>
       <p>Every step leads to a beautiful view.</p>
     </article>
 
     <article className="video-card">
-      <video src="/videos/kalsubai-camping.MOV" controls playsInline preload="metadata" />
+      <video src="/videos/kalsubai-camping.MP4" controls playsInline preload="metadata" />
       <h3>Camping Under the Stars</h3>
       <p>Experience the peaceful side of mountain life.</p>
     </article>
@@ -454,7 +454,7 @@ function App() {
 
     <div className="gallery-item">
       <video
-        src="/videos/kalsubai-sunrise.MOV"
+        src="/videos/kalsubai-sunrise.MP4"
         controls
         playsInline
         preload="metadata"
@@ -467,7 +467,7 @@ function App() {
 
     <div className="gallery-item">
       <video
-        src="/videos/kalsubai-summit.MOV"
+        src="/videos/kalsubai-summit.MP4"
         controls
         playsInline
         preload="metadata"
@@ -480,7 +480,7 @@ function App() {
 
     <div className="gallery-item">
       <video
-        src="/videos/kalsubai-camping.MOV"
+        src="/videos/kalsubai-camping.MP4"
         controls
         playsInline
         preload="metadata"
